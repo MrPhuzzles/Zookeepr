@@ -118,6 +118,16 @@
         "sassy"
       ],
       "id": "11"
+    },
+    {
+      "name": "Kumar",
+      "species": "seal",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hyper",
+        "sassy"
+      ],
+      "id": "12"
     }
   ]
 }
